@@ -5,7 +5,7 @@ import java.net.URISyntaxException;
 import java.nio.file.Paths;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
-
+// This class represents a playing card
 public class Card {
 
     private Rank rank;

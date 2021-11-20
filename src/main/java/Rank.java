@@ -1,3 +1,4 @@
+// This class defines the rank of a card.
 
 public enum Rank {
     ACE(1, "ace"),

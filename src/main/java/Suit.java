@@ -1,4 +1,4 @@
-
+// This class defines the "suit" of a card.
 public enum Suit {
     SPADES("spades"),
     CLUBS("clubs"),
