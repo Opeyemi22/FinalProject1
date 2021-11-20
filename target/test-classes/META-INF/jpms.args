@@ -1,0 +1,4 @@
+--patch-module
+com.mycompany.finalproject=_
+--add-reads
+com.mycompany.finalproject=ALL-UNNAMED

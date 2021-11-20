@@ -1,0 +1,11 @@
+Rank.class
+Deck.class
+SolutionFinder.class
+com\mycompany\finalproject\SecondaryController.class
+com\mycompany\finalproject\PrimaryController.class
+module-info.class
+com\mycompany\finalproject\App.class
+Parser.class
+Card.class
+Game.class
+Suit.class
